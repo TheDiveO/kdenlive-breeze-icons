@@ -1,4 +1,4 @@
-[![LGPL](https://img.shields.io/badge/license-LGPL%20License-blue.svg)](COPYING-ICONS) [![Kdenlive](https://img.shields.io/badge/NLE-Kdenlive-brightgreen.svg)](https://www.kdenlive.org) [![KF5](https://img.shields.io/badge/desktop-KF5-green.svg)](https://www.kde.org)
+[![LGPL](https://img.shields.io/badge/license-LGPL%20License-blue.svg)](COPYING-ICONS) [![Kdenlive](https://img.shields.io/badge/nle-Kdenlive-brightgreen.svg)](https://www.kdenlive.org) [![KF5](https://img.shields.io/badge/desktop-KF5-green.svg)](https://www.kde.org)
 
 # Kdenlive Breeze Icons
 
