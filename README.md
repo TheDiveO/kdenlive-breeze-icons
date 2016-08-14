@@ -24,10 +24,12 @@ The license for Kdenlive's Breeze icons is the same as for the original Breeze i
 # References
 
 * [Theme details: Using system colors](https://techbase.kde.org/Development/Tutorials/Plasma4/ThemeDetails#Using_system_colors) -- probably the most important document with respect to theming Breeze (and other) icon sets; in particular, this document lists the available CSS classes that KF5 supports for themed icons:
-  * `ColorScheme-Text` (#4d4d4d) -- probably the most useful of all theming classes: use for painting all normal icon elements.
-  * `ColorScheme-Highlight` (#3daee9) -- highlight (contrast) color.
+  * ![ColorScheme-Text](https://img.shields.io/badge/color-ColorScheme--Text-4d4d4d.svg) `ColorScheme-Text` (#4d4d4d) -- probably the most useful of all theming classes: use for painting all normal icon elements.
+  * ![ColorScheme-Highlight](https://img.shields.io/badge/color-ColorScheme--Highlight-3daee9.svg) `ColorScheme-Highlight` (#3daee9) -- highlight (contrast) color.
   * ...
 * KDE Visual Design Group/HIG:
-  * [Color](https://community.kde.org/KDE_Visual_Design_Group/HIG/Color) -- the Breeze color theme and color roles.
+  * [Color](https://community.kde.org/KDE_Visual_Design_Group/HIG/Color) -- the Breeze color theme and color roles. Of particular use:
+    * ![icon red](https://img.shields.io/badge/color-icon%20red-da4453.svg) icon red: #da4453
+    * ![icon green](https://img.shields.io/badge/color-icon%20green-2ecc71.svg) icon green: #2ecc71
   * [Icon Design](https://community.kde.org/KDE_Visual_Design_Group/HIG/IconDesign) -- Breeze icon design with respect to color, sizes, et cetera.
 * [Performance updates for breeze icons](https://kdeonlinux.wordpress.com/2016/04/25/performance-update-for-breeze-icons/) -- overall info about Breeze icon styling.
