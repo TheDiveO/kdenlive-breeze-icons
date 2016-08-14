@@ -23,6 +23,8 @@ The license for Kdenlive's Breeze icons is the same as for the original Breeze i
 
 # References
 
+It took me quite some time to figure out the whole CSS styled icons stuff in its details, because the information is mostly scattered around different blog posts. As usual, the final say has the source code, so I've included the interesting module below in my references. This way, others don't need to duplicate my search efforts. Enjoy!
+
 * [Theme details: Using system colors](https://techbase.kde.org/Development/Tutorials/Plasma4/ThemeDetails#Using_system_colors) &ndash; probably the most important document with respect to theming Breeze (and other) icon sets; in particular, this document lists the available CSS classes that KF5 supports for themed icons, yet it is incomplete. With the help of [kiconloader.cpp](https://github.com/KDE/kiconthemes/blob/master/src/kiconloader.cpp) (see `STYLESHEET_TEMPLATE`) we can construct a complete list of these six classes:
   * ![ColorScheme-Text](https://img.shields.io/badge/class-ColorScheme--Text-4d4d4d.svg) `ColorScheme-Text` (#4d4d4d) &ndash; probably the most useful of all theming classes: use for painting all normal icon elements.
   * ![ColorScheme-Highlight](https://img.shields.io/badge/class-ColorScheme--Highlight-3daee9.svg) `ColorScheme-Highlight` (#3daee9) &ndash; highlight (contrast) color.
