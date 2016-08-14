@@ -23,6 +23,9 @@ The license for Kdenlive's Breeze icons is the same as for the original Breeze i
 
 # References
 
+* [Theme details: Using system colors](https://techbase.kde.org/Development/Tutorials/Plasma4/ThemeDetails#Using_system_colors) -- probably the most important document with respect to theming Breeze (and other) icon sets; in particular, this document lists the available CSS classes that KF5 supports for themed icons:
+  * `ColorScheme-Text` -- probably the most useful of all theming classes.
+  * ...
 * KDE Visual Design Group/HIG:
   * [Color](https://community.kde.org/KDE_Visual_Design_Group/HIG/Color) -- the Breeze color theme and color roles.
   * [Icon Design](https://community.kde.org/KDE_Visual_Design_Group/HIG/IconDesign) -- Breeze icon design with respect to color, sizes, et cetera.
