@@ -33,3 +33,5 @@ The license for Kdenlive's Breeze icons is the same as for the original Breeze i
     * ![icon green](https://img.shields.io/badge/color-icon%20green-2ecc71.svg) icon green: #2ecc71
   * [Icon Design](https://community.kde.org/KDE_Visual_Design_Group/HIG/IconDesign) -- Breeze icon design with respect to color, sizes, et cetera.
 * [Performance updates for breeze icons](https://kdeonlinux.wordpress.com/2016/04/25/performance-update-for-breeze-icons/) -- overall info about Breeze icon styling.
+
+Note: example color codes and patches are for Breeze (Light).
