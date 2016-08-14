@@ -20,3 +20,10 @@ Unfortunately, with this setup, any updated Kdenlive icons installed into your l
 # License
 
 The license for Kdenlive's Breeze icons is the same as for the original Breeze icons: [LGPL](COPYING.LIB) with an [explicit clarification that these icons are covered by the LGPL](COPYING-ICONS).
+
+# References
+
+* KDE Visual Design Group/HIG:
+  * [Color](https://community.kde.org/KDE_Visual_Design_Group/HIG/Color) -- the Breeze color theme and color roles.
+  * [Icon Design](https://community.kde.org/KDE_Visual_Design_Group/HIG/IconDesign) -- Breeze icon design with respect to color, sizes, et cetera.
+* [Performance updates for breeze icons](https://kdeonlinux.wordpress.com/2016/04/25/performance-update-for-breeze-icons/) -- overall info about Breeze icon styling.
