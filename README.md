@@ -2,7 +2,16 @@
 
 # Kdenlive Breeze Icons
 
-The Kdenlive-specific Breeze icons. Stylable, so they adapt to the particular color theme in use. It bases on the famous (Breeze icon set)[https://github.com/KDE/breeze-icons] (GitHub), but contains only those icons specific to Kdenlive. This repository mainly serves as a development place for these icons until they find their way into the original Breeze icon set.
+The Kdenlive-specific Breeze icons. Stylable, so they adapt to the particular color theme in use.
+
+The Kdenlive Breeze icons base on the famous (Breeze icon set)[https://github.com/KDE/breeze-icons] (GitHub). Please note that this repository contains only those icons specific to Kdenlive. It mainly serves as a development place for these icons until they find their way into the original Breeze icon set.
+
+This repository is especially useful when you:
+
+1. compile Kdenlive yourself,
+2. _and_ install it into some other place than a system-wide location, such as inside your `$HOME`.
+ 
+Unfortunately, with this setup, any updated Kdenlive icons installed into your local install will simply be ignored. Only new icons will be picked up. The reason for this unexpected and undesired behavior are hidden deep inside the (KF5) mechanics of icon handling. The only way at this time is to also clone the Breeze icon set into your `$HOME` and then update this local set with the more recent Kdenlive icons. Not exactly beautiful, but at least this method works.
 
 # Installation
 
