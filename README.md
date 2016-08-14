@@ -24,12 +24,12 @@ The license for Kdenlive's Breeze icons is the same as for the original Breeze i
 # References
 
 * [Theme details: Using system colors](https://techbase.kde.org/Development/Tutorials/Plasma4/ThemeDetails#Using_system_colors) -- probably the most important document with respect to theming Breeze (and other) icon sets; in particular, this document lists the available CSS classes that KF5 supports for themed icons, yet it is incomplete. With the help of [kiconloader.cpp](https://github.com/KDE/kiconthemes/blob/master/src/kiconloader.cpp) (see `STYLESHEET_TEMPLATE`) we can construct a complete list of these six classes:
-  * ![ColorScheme-Text](https://img.shields.io/badge/color-ColorScheme--Text-4d4d4d.svg) `ColorScheme-Text` (#4d4d4d) -- probably the most useful of all theming classes: use for painting all normal icon elements.
-  * ![ColorScheme-Highlight](https://img.shields.io/badge/color-ColorScheme--Highlight-3daee9.svg) `ColorScheme-Highlight` (#3daee9) -- highlight (contrast) color.
-  * ![ColorScheme-Background](https://img.shields.io/badge/color-ColorScheme--Background-eff0f1.svg) `ColorScheme-Background` (#eff0f1) -- background color; usually you should not need it, as any decent SVG editor (such as [Inkscape](https://www.inkscape.org)) offers tools to cut out regions so that the background becomes visible.
-  * ![ColorScheme-PositiveText](https://img.shields.io/badge/color-ColorScheme--PositiveText-27ae60.svg) `ColorScheme-PositiveText` (#27ae60)
-  * ![ColorScheme-NeutralText](https://img.shields.io/badge/color-ColorScheme--NeutralText-f67400.svg) `ColorScheme-NeutralText` (#f67400)
-  * ![ColorScheme-NegativeText](https://img.shields.io/badge/color-ColorScheme--NegativeText-da4453.svg) `ColorScheme-NegativeText` (#da4453)
+  * ![ColorScheme-Text](https://img.shields.io/badge/class-ColorScheme--Text-4d4d4d.svg) `ColorScheme-Text` (#4d4d4d) -- probably the most useful of all theming classes: use for painting all normal icon elements.
+  * ![ColorScheme-Highlight](https://img.shields.io/badge/class-ColorScheme--Highlight-3daee9.svg) `ColorScheme-Highlight` (#3daee9) -- highlight (contrast) color.
+  * ![ColorScheme-Background](https://img.shields.io/badge/class-ColorScheme--Background-eff0f1.svg) `ColorScheme-Background` (#eff0f1) -- background color; usually you should not need it, as any decent SVG editor (such as [Inkscape](https://www.inkscape.org)) offers tools to cut out regions so that the background becomes visible.
+  * ![ColorScheme-PositiveText](https://img.shields.io/badge/class-ColorScheme--PositiveText-27ae60.svg) `ColorScheme-PositiveText` (#27ae60)
+  * ![ColorScheme-NeutralText](https://img.shields.io/badge/class-ColorScheme--NeutralText-f67400.svg) `ColorScheme-NeutralText` (#f67400)
+  * ![ColorScheme-NegativeText](https://img.shields.io/badge/class-ColorScheme--NegativeText-da4453.svg) `ColorScheme-NegativeText` (#da4453)
 * [kiconloader.cpp](https://github.com/KDE/kiconthemes/blob/master/src/kiconloader.cpp) does the necessary CSS style adaption, see here:
   * `STYLESHEET_TEMPLATE` -- defines the SVG CSS template.
   * `KIconLoaderPrivate::processSvg` -- does the magic: it replaces the CSS `<style>` with `id="current-color-scheme"` with the `STYLESHEET_TEMPLATE`, inserting the current color theme values for the (six) CSS classes listed above.
