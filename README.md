@@ -38,8 +38,8 @@ The license for Kdenlive's Breeze icons is the same as for the original Breeze i
     * ![Icon Grey](https://img.shields.io/badge/color-Icon%20Grey-4d4d4d.svg) Icon Grey: #4d4d4d
     * ![Plasma Blue](https://img.shields.io/badge/color-Plasma%20Blue-3daee9.svg) Plasma Blue: #3daee9
     * ![Cardboard Grey](https://img.shields.io/badge/color-Cardboard%20Grey-eff0f1.svg) Cardboard Grey: #eff0f1
-    * ![Icon Red](https://img.shields.io/badge/color-icon%20red-da4453.svg) Icon Red: #da4453
-    * ![Icon Green](https://img.shields.io/badge/color-icon%20green-2ecc71.svg) Icon Green: #2ecc71
+    * ![Icon Red](https://img.shields.io/badge/color-Icon%20Red-da4453.svg) Icon Red: #da4453
+    * ![Icon Green](https://img.shields.io/badge/color-Icon%20Green-2ecc71.svg) Icon Green: #2ecc71
     * ![Beware Orange](https://img.shields.io/badge/color-Beware%20Orage-f67400.svg) Beware Orange: #f67400
   * [Icon Design](https://community.kde.org/KDE_Visual_Design_Group/HIG/IconDesign) &ndash; Breeze icon design with respect to color, sizes, et cetera.
 * [Performance updates for breeze icons](https://kdeonlinux.wordpress.com/2016/04/25/performance-update-for-breeze-icons/) &ndash; overall info about Breeze icon styling.
