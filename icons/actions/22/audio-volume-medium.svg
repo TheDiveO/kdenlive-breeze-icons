@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lt_audio-volume-medium.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-PositiveText {
+        color:#2ecc71;
+      }
+      .ColorScheme-NeutralText {
+        color:#f67400;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }
+    </style>
+  </defs>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="960"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     fill="currentColor" class="ColorScheme-Text"
+     id="g4">
+    <path
+       d="M10.988 3L6 7.99v6.02L10.988 19H12V3h-1.012zM3 8v6h2V8H3zm11.324-.72l-.54.863A4 4 0 0 1 15 11a4 4 0 0 1-1.21 2.86l.538.865A5 5 0 0 0 16 11a5 5 0 0 0-1.676-3.72z"
+       id="path6" />
+    <path
+       d="M13.865 3.537l-.244.977A7 7 0 0 1 18 11a7 7 0 0 1-4.38 6.48l.243.973A8 8 0 0 0 19 11a8 8 0 0 0-5.135-7.463z"
+       opacity=".5"
+       id="path8" />
+  </g>
+</svg>
