@@ -19,9 +19,10 @@ In order to use Kdenlive's updated color theme-adaptive Breeze icons, we basical
 
 1. create `$HOME/local/share/icons` &ndash; this will next receive our local copy of the Breeze icon set. Unfortunately, there's no way making a local copy and then updating the required Kdenlive icons. 
 2. copy the complete stock Breeze icon theme from `/usr/share/icons/breeze` into `$HOME/local/share/icons/breeze`
-3. remove `$HOME/.cache/icon-cache.kcache` to be on the safe side; this removes all potentially cached and now stale Breeze icons from the cache, so the updated icons will be used instead (and cached now).
-4. as with any local Kdenlive install outside the system directories, make sure that `XDG_DATA_DIRS` correctly points to your local stuff; that is, to `$HOME/local/share`. Failing to do so will Kdenlive not let see and use the updated Breeze icon set.
-5. make sure that you've selected the Breeze icon set (and not Breeze dark or some other icon set).
+3. copy the icons from this repository into `$HOME/locals/share/icons/breeze`, updating the Kdenlive-specific icons.
+4. remove `$HOME/.cache/icon-cache.kcache` to be on the safe side; this removes all potentially cached and now stale Breeze icons from the cache, so the updated icons will be used instead (and cached now).
+5. as with any local Kdenlive install outside the system directories, make sure that `XDG_DATA_DIRS` correctly points to your local stuff; that is, to `$HOME/local/share`. Failing to do so will Kdenlive not let see and use the updated Breeze icon set.
+6. make sure that you've selected the Breeze icon set (and not Breeze dark or some other icon set).
 
 # Notes
 
