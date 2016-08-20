@@ -17,6 +17,8 @@ Unfortunately, with this setup, any updated Kdenlive icons installed into your l
 
 (to be written)
 
+* Remove `$HOME/.cache/icon-cache.kcache` to be on the safe side; this removes all potentially cached and now stale Breeze icons from the cache, so the updated icons will be used instead (and cached now).
+
 # License
 
 The license for Kdenlive's Breeze icons is the same as for the original Breeze icons: [LGPL](COPYING.LIB) with an [explicit clarification that these icons are covered by the LGPL](COPYING-ICONS).
