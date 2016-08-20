@@ -15,9 +15,21 @@ Unfortunately, with this setup, any updated Kdenlive icons installed into your l
 
 # Installation
 
-(to be written)
+In order to use Kdenlive's updated color theme-adaptive Breeze icons, we basically first need to set up a local copy of the original Breeze icon theme. The reason is that for updating some icons, the theme inheritance mechanism of KF5 doesn't work as required. So we need a full copy. Next, we then update the old or add the missing Kdenlive adaptive icons.
 
-* Remove `$HOME/.cache/icon-cache.kcache` to be on the safe side; this removes all potentially cached and now stale Breeze icons from the cache, so the updated icons will be used instead (and cached now).
+1. create `$HOME/local/share/icons` &ndash; this will next receive our local copy of the Breeze icon set. Unfortunately, there's no way making a local copy and then updating the required Kdenlive icons. 
+2. copy the complete stock Breeze icon theme from `/usr/share/icons/breeze` into `$HOME/local/share/icons/breeze`
+3. remove `$HOME/.cache/icon-cache.kcache` to be on the safe side; this removes all potentially cached and now stale Breeze icons from the cache, so the updated icons will be used instead (and cached now).
+4. as with any local Kdenlive install outside the system directories, make sure that `XDG_DATA_DIRS` correctly points to your local stuff; that is, to `$HOME/local/share`. Failing to do so will Kdenlive not let see and use the updated Breeze icon set.
+5. make sure that you've selected the Breeze icon set (and not Breeze dark or some other icon set).
+
+# Notes
+
+Currently, when Kdenlive is installed into a local folder, then its icons get copied into the fall-back `hicolor` icon set. This is flawed in several points:
+
+1. this local branch has no `index.theme`, so it's not even a real icon theme.
+2. this local icon set is not complete; so when you try to force Kdenlive/KF5 to use only your local `hicolor` icon theme, many icons will be missing.
+3. last, but not least, without an `index.theme` there is no `FollowsColorScheme=true` indication that tells KF5 that it can theme this particular icon set.
 
 # License
 
