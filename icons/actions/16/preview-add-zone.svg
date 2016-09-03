@@ -39,8 +39,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="42.909091"
-     inkscape:cx="0.23688042"
-     inkscape:cy="10.155461"
+     inkscape:cx="4.6607615"
+     inkscape:cy="7.4212351"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -57,10 +57,19 @@
       .ColorScheme-Text {
         color:#4d4d4d;
       }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
       </style>
   </defs>
-  <path class="ColorScheme-Text"
+  <path
+     class="ColorScheme-Text"
      style="color:currentColor;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:currentColor;solid-opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="M 4 1.9941406 L 4 4.9941406 L 3 4.9941406 L 3 3.9941406 L 2 3.9941406 L 2 4.9941406 L 1 4.9941406 L 1 5.9941406 L 14 6 L 14 5 L 13 5 L 13 2 L 12 2 L 12 4.9941406 L 11 4.9941406 L 11 3.9941406 L 10 3.9941406 L 10 4.9941406 L 9 4.9941406 L 9 3.9941406 L 8 3.9941406 L 8 4.9941406 L 7 4.9941406 L 7 3.9941406 L 6 3.9941406 L 6 4.9941406 L 5 4.9941406 L 5 1.9941406 L 4 1.9941406 z M 1 8 L 1 13 L 2 13 L 2 10.5 L 2 8 L 1 8 z M 2 10.5 L 4 13 L 4 8 L 2 10.5 z M 7 8 L 7 10 L 5 10 L 5 11 L 7 11 L 7 13 L 8 13 L 8 11 L 10 11 L 10 10 L 8 10 L 8 8 L 7 8 z M 11 8 L 11 13 L 13 10.5 L 11 8 z M 13 10.5 L 13 13 L 14 13 L 14 8 L 13 8 L 13 10.5 z "
-     id="path4143" />
+     d="m 5,3.9941406 0,3 -1,0 0,-1 -1,0 0,1 -1,0 0,1 L 13.976562,8 l 0,-4 -1,0 0,2.9941406 -0.976562,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-3 -1,0 z"
+     id="path4145"
+     inkscape:connector-curvature="0" />
+  <path class="ColorScheme-Highlight"
+     style="color:currentColor;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:currentColor;solid-opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 2 9 L 2 11 L 8 11 L 8 9 L 2 9 z M 11 9 L 11 11 L 9 11 L 9 12 L 11 12 L 11 14 L 12 14 L 12 12 L 14 12 L 14 11 L 12 11 L 12 9 L 11 9 z "
+     id="path4138" />
 </svg>

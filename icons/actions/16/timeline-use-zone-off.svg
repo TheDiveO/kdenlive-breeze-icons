@@ -39,8 +39,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="42.909091"
-     inkscape:cx="4.8938124"
-     inkscape:cy="9.2856419"
+     inkscape:cx="3.5729453"
+     inkscape:cy="7.545137"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -57,10 +57,13 @@
       .ColorScheme-Text {
         color:#4d4d4d;
       }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
       </style>
   </defs>
   <path class="ColorScheme-Text"
      style="color:currentColor;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:currentColor;solid-opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="M 12.814453 1.4785156 L 1.5 12.792969 L 2.2070312 13.5 L 13.521484 2.1855469 L 12.814453 1.4785156 z M 5 1.9941406 L 5 4.9941406 L 4 4.9941406 L 4 3.9941406 L 3 3.9941406 L 3 4.9941406 L 2 4.9941406 L 2 5.9941406 L 6.9296875 5.9960938 L 8 4.9257812 L 8 3.9941406 L 7 3.9941406 L 7 4.9941406 L 6 4.9941406 L 6 1.9941406 L 5 1.9941406 z M 13.976562 3.1074219 L 12.976562 4.1074219 L 12.976562 4.9941406 L 12.089844 4.9941406 L 11.085938 5.9980469 L 13.976562 6 L 13.976562 3.1074219 z M 2 8 L 2 10.927734 L 3 9.9277344 L 3 8 L 2 8 z M 10 8 L 10 13 L 13 10.5 L 10 8 z M 13 10.5 L 13 13 L 14 13 L 14 8 L 13 8 L 13 10.5 z M 6 11.085938 L 4.9550781 12.128906 L 6 13 L 6 11.085938 z "
-     id="path4148" />
+     d="M 12.962891 2.3378906 L 2.3574219 12.945312 L 3.0644531 13.652344 L 13.669922 3.0449219 L 12.962891 2.3378906 z M 5 3.9941406 L 5 6.9941406 L 4 6.9941406 L 4 5.9941406 L 3 5.9941406 L 3 6.9941406 L 2 6.9941406 L 2 7.9941406 L 5.8828125 7.9960938 L 6.8847656 6.9941406 L 6 6.9941406 L 6 3.9941406 L 5 3.9941406 z M 13.976562 4.1445312 L 12.976562 5.1445312 L 12.976562 6.9941406 L 12 6.9941406 L 12 6.1210938 L 10.123047 7.9980469 L 13.976562 8 L 13.976562 4.1445312 z M 7 5.9941406 L 7 6.8789062 L 7.8847656 5.9941406 L 7 5.9941406 z M 3 9 L 3 10.878906 L 4.8789062 9 L 3 9 z M 9.1210938 9 L 7.1210938 11 L 13 11 L 13 9 L 9.1210938 9 z "
+     id="path4145" />
 </svg>
