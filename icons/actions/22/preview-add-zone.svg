@@ -33,6 +33,9 @@
       .ColorScheme-Text {
         color:#4d4d4d;
       }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
     </style>
   </defs>
   <sodipodi:namedview
@@ -44,25 +47,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1351"
+     inkscape:window-width="1639"
+     inkscape:window-height="1095"
      id="namedview6"
      showgrid="true"
      showguides="false"
-     inkscape:zoom="42.909091"
-     inkscape:cx="9.161093"
-     inkscape:cy="12.395472"
-     inkscape:window-x="0"
+     inkscape:zoom="30.341309"
+     inkscape:cx="9.6669868"
+     inkscape:cy="13.504426"
+     inkscape:window-x="-4"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      inkscape:snap-grids="true">
     <inkscape:grid
        type="xygrid"
        id="grid4138" />
   </sodipodi:namedview>
-  <path
-     style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-     d="M 6.0234375 4.9941406 L 6.0234375 8.9941406 L 5.0234375 8.9941406 L 5.0234375 6.9941406 L 4.0234375 6.9941406 L 4.0234375 8.9941406 L 3.0234375 8.9941406 L 3.0234375 9.9941406 L 19.023438 9.9941406 L 19.023438 8.9941406 L 19 8.9941406 L 19 7 L 18 7 L 18 8.9941406 L 17.023438 8.9941406 L 17.023438 4.9941406 L 16.023438 4.9941406 L 16.023438 8.9941406 L 15.023438 8.9941406 L 15.023438 6.9941406 L 14.023438 6.9941406 L 14.023438 8.9941406 L 13.023438 8.9941406 L 13.023438 6.9941406 L 12.023438 6.9941406 L 12.023438 8.9941406 L 11.023438 8.9941406 L 11.023438 6.9941406 L 10.023438 6.9941406 L 10.023438 8.9941406 L 9.0234375 8.9941406 L 9.0234375 6.9941406 L 8.0234375 6.9941406 L 8.0234375 8.9941406 L 7.0234375 8.9941406 L 7.0234375 4.9941406 L 6.0234375 4.9941406 z M 3 11 L 3 17 L 4 17 L 4 14 L 4 11 L 3 11 z M 4 14 L 7 17 L 7 11 L 4 14 z M 15 11 L 15 17 L 18 14 L 15 11 z M 18 14 L 18 17 L 19 17 L 19 11 L 18 11 L 18 14 z M 10.5 11.5 L 10.5 13.5 L 8.5 13.5 L 8.5 14.5 L 10.5 14.5 L 10.5 16.5 L 11.5 16.5 L 11.5 14.5 L 13.5 14.5 L 13.5 13.5 L 11.5 13.5 L 11.5 11.5 L 10.5 11.5 z "
+  <path class="ColorScheme-Text"
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     d="m 6.0234375,4.9941406 0,4 -1,0 0,-2 -1,0 0,2 -1,0 0,1 16.0000005,0 0,-1 -0.02344,0 L 19,7 l -1,0 0,1.9941406 -0.976562,0 0,-4 -1,0 0,4 -1,0 0,-2 -1,0 0,2 -1,0 0,-2 -1,0 0,2 -1,0 0,-2 -1,0 0,2 -1.0000005,0 0,-2 -1,0 0,2 -1,0 0,-4 -1,0 z"
+     id="path4145" />
+  <path class="ColorScheme-Highlight"
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     d="M 3 12 L 3 15 L 13 15 L 13 12 L 3 12 z M 16 12 L 16 14 L 14 14 L 14 15 L 16 15 L 16 17 L 17 17 L 17 15 L 19 15 L 19 14 L 17 14 L 17 12 L 16 12 z "
      id="path4251" />
 </svg>
